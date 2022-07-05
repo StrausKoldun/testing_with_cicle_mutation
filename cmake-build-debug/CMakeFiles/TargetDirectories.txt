@@ -1,0 +1,3 @@
+C:/Users/Starus/CLionProjects/testing_with_cicle_mutation/cmake-build-debug/CMakeFiles/testing_with_cicle_mutation.dir
+C:/Users/Starus/CLionProjects/testing_with_cicle_mutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Starus/CLionProjects/testing_with_cicle_mutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
